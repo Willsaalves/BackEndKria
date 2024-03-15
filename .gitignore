@@ -1,0 +1,86 @@
+# Arquivos de compilação
+bin/
+obj/
+
+# Arquivos de dependência NuGet
+*.nuget.props
+*.paket.references
+paket-files/
+packages/
+
+# Ferramentas de compilação
+_ReSharper*/
+*.resharper
+*.suo
+*.user
+*.vscode
+.vs/
+*.sln.ide
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs e dados temporários
+logs/
+*.log
+*.swp
+*.tmp
+*.pid
+*.seed
+*.sql
+*.cache
+*.hprof
+*.orig
+*.merges
+
+# Arquivos de configuração do Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.ide
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.sdf
+*.opensdf
+*.cachefile
+*.VC.db
+*.VC.opendb
+*.VC.VC.opendb
+
+# Arquivos de cache e dados temporários
+[Tt]emp/
+[Vv]iews/
+[Ii]ntermediateOutput/
+[Oo]bj/
+
+# Logs e resultados de build
+[Bb]uild[Ll]ogs/
+
+# Diretório de saída do Rider
+.idea/
+*.sln.iml
+
+# Arquivos de configuração de aplicativos do Windows
+App.config
+*.exe
+*.pdb
+*.dll.config
+*.dll.mdb
+
+# Arquivos de configuração de aplicativos do macOS
+*.DS_Store
+
+# Arquivos de configuração de aplicativos do Linux
+*~
+
+# Pacotes de NPM
+node_modules/
