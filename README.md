@@ -8,7 +8,7 @@ Este é o repositório contendo o código-fonte do backend da aplicação, desen
 
 1. **Clonar o Repositório:**
 ```bash
-git clone <URL_do_repositório>
+git clone https://github.com/Willsaalves/BackEndKria
 ```
 
 2. **Configurar o Ambiente de Desenvolvimento:**
